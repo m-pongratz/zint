@@ -2,7 +2,7 @@ name: Code Intelligence Fuzzing
 
 on:
   push:
-    branches: [ master ]
+    branches: [ release-test ]
   pull_request:
     branches: [ master ]
 
